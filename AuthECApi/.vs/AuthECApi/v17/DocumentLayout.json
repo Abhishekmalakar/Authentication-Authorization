@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Auth\\AuthECApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80A744E8-5A9B-457B-A8E8-2BB22F36759E}|AuthECApi.csproj|e:\\auth\\authecapi\\extensions\\identityextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A744E8-5A9B-457B-A8E8-2BB22F36759E}|AuthECApi.csproj|solutionrelative:extensions\\identityextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A744E8-5A9B-457B-A8E8-2BB22F36759E}|AuthECApi.csproj|e:\\auth\\authecapi\\controllers\\identityuserendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A744E8-5A9B-457B-A8E8-2BB22F36759E}|AuthECApi.csproj|solutionrelative:controllers\\identityuserendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A744E8-5A9B-457B-A8E8-2BB22F36759E}|AuthECApi.csproj|e:\\auth\\authecapi\\userdetails.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{80A744E8-5A9B-457B-A8E8-2BB22F36759E}|AuthECApi.csproj|solutionrelative:userdetails.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A744E8-5A9B-457B-A8E8-2BB22F36759E}|AuthECApi.csproj|e:\\auth\\authecapi\\controllers\\authorizationdemoendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A744E8-5A9B-457B-A8E8-2BB22F36759E}|AuthECApi.csproj|solutionrelative:controllers\\authorizationdemoendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A744E8-5A9B-457B-A8E8-2BB22F36759E}|AuthECApi.csproj|e:\\auth\\authecapi\\controllers\\accontendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A744E8-5A9B-457B-A8E8-2BB22F36759E}|AuthECApi.csproj|solutionrelative:controllers\\accontendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A744E8-5A9B-457B-A8E8-2BB22F36759E}|AuthECApi.csproj|e:\\auth\\authecapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A744E8-5A9B-457B-A8E8-2BB22F36759E}|AuthECApi.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A744E8-5A9B-457B-A8E8-2BB22F36759E}|AuthECApi.csproj|e:\\auth\\authecapi\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A744E8-5A9B-457B-A8E8-2BB22F36759E}|AuthECApi.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A744E8-5A9B-457B-A8E8-2BB22F36759E}|AuthECApi.csproj|e:\\auth\\authecapi\\extensions\\swaggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A744E8-5A9B-457B-A8E8-2BB22F36759E}|AuthECApi.csproj|solutionrelative:extensions\\swaggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A744E8-5A9B-457B-A8E8-2BB22F36759E}|AuthECApi.csproj|e:\\auth\\authecapi\\extensions\\appconfigextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A744E8-5A9B-457B-A8E8-2BB22F36759E}|AuthECApi.csproj|solutionrelative:extensions\\appconfigextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A744E8-5A9B-457B-A8E8-2BB22F36759E}|AuthECApi.csproj|e:\\auth\\authecapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A744E8-5A9B-457B-A8E8-2BB22F36759E}|AuthECApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A744E8-5A9B-457B-A8E8-2BB22F36759E}|AuthECApi.csproj|e:\\auth\\authecapi\\extensions\\efcoreextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A744E8-5A9B-457B-A8E8-2BB22F36759E}|AuthECApi.csproj|solutionrelative:extensions\\efcoreextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A744E8-5A9B-457B-A8E8-2BB22F36759E}|AuthECApi.csproj|e:\\auth\\authecapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{80A744E8-5A9B-457B-A8E8-2BB22F36759E}|AuthECApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IdentityExtensions.cs",
+              "DocumentMoniker": "E:\\Auth\\AuthECApi\\Extensions\\IdentityExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\IdentityExtensions.cs",
+              "ToolTip": "E:\\Auth\\AuthECApi\\Extensions\\IdentityExtensions.cs",
+              "RelativeToolTip": "Extensions\\IdentityExtensions.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAnwCcAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T04:42:02.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Auth\\AuthECApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Auth\\AuthECApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:06:46.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "E:\\Auth\\AuthECApi\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Models\\AppUser.cs",
+              "ToolTip": "E:\\Auth\\AuthECApi\\Models\\AppUser.cs",
+              "RelativeToolTip": "Models\\AppUser.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAMwA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T04:00:14.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\Auth\\AuthECApi\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "E:\\Auth\\AuthECApi\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAOYAAAAAAAAAAAAvwPIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:47:25.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Auth\\AuthECApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Auth\\AuthECApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-13T13:39:07.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccontEndpoints.cs",
+              "DocumentMoniker": "E:\\Auth\\AuthECApi\\Controllers\\AccontEndpoints.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccontEndpoints.cs",
+              "ToolTip": "E:\\Auth\\AuthECApi\\Controllers\\AccontEndpoints.cs",
+              "RelativeToolTip": "Controllers\\AccontEndpoints.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAnwBUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T14:15:04.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IdentityUserEndpoints.cs",
+              "DocumentMoniker": "E:\\Auth\\AuthECApi\\Controllers\\IdentityUserEndpoints.cs",
+              "RelativeDocumentMoniker": "Controllers\\IdentityUserEndpoints.cs",
+              "ToolTip": "E:\\Auth\\AuthECApi\\Controllers\\IdentityUserEndpoints.cs",
+              "RelativeToolTip": "Controllers\\IdentityUserEndpoints.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAvwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T08:14:24.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthorizationDemoEndpoints.cs",
+              "DocumentMoniker": "E:\\Auth\\AuthECApi\\Controllers\\AuthorizationDemoEndpoints.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorizationDemoEndpoints.cs",
+              "ToolTip": "E:\\Auth\\AuthECApi\\Controllers\\AuthorizationDemoEndpoints.cs",
+              "RelativeToolTip": "Controllers\\AuthorizationDemoEndpoints.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAnwBEAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T03:19:22.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EFCoreExtensions.cs",
+              "DocumentMoniker": "E:\\Auth\\AuthECApi\\Extensions\\EFCoreExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\EFCoreExtensions.cs",
+              "ToolTip": "E:\\Auth\\AuthECApi\\Extensions\\EFCoreExtensions.cs",
+              "RelativeToolTip": "Extensions\\EFCoreExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T05:26:16.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SwaggerExtensions.cs",
+              "DocumentMoniker": "E:\\Auth\\AuthECApi\\Extensions\\SwaggerExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\SwaggerExtensions.cs",
+              "ToolTip": "E:\\Auth\\AuthECApi\\Extensions\\SwaggerExtensions.cs",
+              "RelativeToolTip": "Extensions\\SwaggerExtensions.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T06:04:48.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "userdetails.json",
+              "DocumentMoniker": "E:\\Auth\\AuthECApi\\userdetails.json",
+              "RelativeDocumentMoniker": "userdetails.json",
+              "ToolTip": "E:\\Auth\\AuthECApi\\userdetails.json",
+              "RelativeToolTip": "userdetails.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-19T13:57:04.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppConfigExtensions.cs",
+              "DocumentMoniker": "E:\\Auth\\AuthECApi\\Extensions\\AppConfigExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\AppConfigExtensions.cs",
+              "ToolTip": "E:\\Auth\\AuthECApi\\Extensions\\AppConfigExtensions.cs",
+              "RelativeToolTip": "Extensions\\AppConfigExtensions.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswBYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T07:39:12.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
